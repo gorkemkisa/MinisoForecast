@@ -1,7 +1,13 @@
-# MinisoForecast
+# Miniso Forecast Tool
 
 
-This software is built and published by Görkem Kısa. This software is a part of my Senior Design Project, anyone who has access to this page can inspect and use the code freely (if you want to use this, please reference the contributors of the packages and libraries that I've used).
+This software is built and published by Görkem Kısa. This software is a part of my team's Senior Design Project, anyone who has access to this page can inspect and use the code freely (if you want to use this, please reference the contributors of the packages and libraries that I've used).
+
+Our team:
+- Görkem Kısa
+- Aslı Çahantimur
+- Ali Şamil Adıgüzel
+- Ecem Akış
 
 I've built this software using C# and R. Used libraries in C#:
 
