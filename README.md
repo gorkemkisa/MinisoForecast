@@ -9,7 +9,7 @@ The Excel data should be formatted like this:
 - The sale data should be filled like a matrix in this format.
 
 
-This software is built and published by Görkem Kısa. This software is a part of my team's Senior Design Project, anyone who has access to this page can inspect and use the code freely (if you want to use this, please reference the contributors of the packages and libraries that I've used). Form1.cs is the main source code.
+This software is built and published by Görkem Kısa. This software is a part of my team's Senior Design Project, anyone who has access to this page can inspect and use the code freely under the use of MIT license(if you want to use this, please reference the contributors of the packages and libraries that I've used). Form1.cs is the main source code.
 
 Our team:
 - Görkem Kısa
