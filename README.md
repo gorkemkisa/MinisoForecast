@@ -4,12 +4,12 @@ This tool basically pulls the Excel data (.xlsx or .xlsm), applies interpolation
 
 The Excel data should be formatted like this:
 
-First column should have ID's (Unique identifiers of the data)
-First row should have time indexes (Day, month, week, etc.)
-The sale data should be filled like a matrix in this format.
+- First column should have ID's (Unique identifiers of the data)
+- First row should have time indexes (Day, month, week, etc.)
+- The sale data should be filled like a matrix in this format.
 
 
-This software is built and published by Görkem Kısa. This software is a part of my team's Senior Design Project, anyone who has access to this page can inspect and use the code freely (if you want to use this, please reference the contributors of the packages and libraries that I've used).
+This software is built and published by Görkem Kısa. This software is a part of my team's Senior Design Project, anyone who has access to this page can inspect and use the code freely (if you want to use this, please reference the contributors of the packages and libraries that I've used). Form1.cs is the main source code.
 
 Our team:
 - Görkem Kısa
