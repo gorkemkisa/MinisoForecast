@@ -1,4 +1,6 @@
-# Miniso Forecasting Tool
+## Miniso Forecasting Tool
+
+# WARNING: This software is not affiliated with Miniso/Miniso Turkey. It doesn't contain any kinds of confidential, private data and/or methods. This is just a senior design project that we've created with collaboration of Miniso. They have all the rights to change, or not use at all.
 
 This tool basically pulls the Excel data (.xlsx or .xlsm), applies interpolation (Missing Data Handling) and/or exterpolation (Forecasting using Theta function), and prints the results to an Excel file. 
 
