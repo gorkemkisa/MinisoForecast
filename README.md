@@ -37,6 +37,7 @@ and all of the dependent packages of the above list.
 
 
 References:
+
 Hyndman R, Athanasopoulos G, Bergmeir C, Caceres G, Chhay L, O'Hara-Wild M, Petropoulos F, Razbash S, Wang E, Yasmeen F (2019). forecast: Forecasting functions for time series and linear models. R package version 8.7, http://pkg.robjhyndman.com/forecast.
 
 Hyndman RJ, Khandakar Y (2008). “Automatic time series forecasting: the forecast package for R.” Journal of Statistical Software, 26(3), 1–22. http://www.jstatsoft.org/article/view/v027i03.
