@@ -1,6 +1,6 @@
 # Miniso Forecasting Tool
 
-## WARNING: This software is not affiliated with Miniso/Miniso Turkey. It doesn't contain any kinds of confidential, private data and/or methods. This is just a senior design project that we've created with collaboration of Miniso. They have all the rights to change, or not use at all.
+## WARNING: This software is not affiliated with Miniso/Miniso Turkey. It doesn't contain any kinds of confidential, private data and/or methods. This is just a senior design project that we've created with collaboration of Miniso Turkey. 
 
 This tool basically pulls the Excel data (.xlsx or .xlsm), applies interpolation (Missing Data Handling) and/or exterpolation (Forecasting using Theta function), and prints the results to an Excel file. 
 
@@ -9,9 +9,9 @@ The Excel data should be formatted like this:
 - First column should have ID's (Unique identifiers of the data)
 - First row should have time indexes (Day, month, week, etc.)
 - The sale data should be filled like a matrix in this format.
+There is also a sample Excel file, should you need it.
 
-
-This software is built and published by Görkem Kısa. This software is a part of my team's Senior Design Project, anyone who has access to this page can inspect and use the code freely under the use of MIT license(if you want to use this, please reference the contributors of the packages and libraries that I've used). Form1.cs is the main source code.
+This software is built and published by Görkem Kısa. This software is a part of my team's Senior Design Project, anyone who has access to this page can inspect and use the code freely under the use of MIT license(if you want to use this, please reference the contributors of the packages and libraries that I've used). Also, you can see the source code directly from here. You just need to look a little (Tip: "Form1.cs" is the main source code).
 
 Our team:
 - Görkem Kısa
@@ -31,7 +31,6 @@ Used packages in R:
 - openxlsx
 - imputeTS
 - mice
-- forecastHybrid
 
 and all of the dependent packages of the above list.
 
